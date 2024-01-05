@@ -1,0 +1,33 @@
+[
+    {
+      "cityName": "warsaw",
+      "population": 1765000,
+      "resources": [],
+      "employees": [],
+      "factories": [],
+      "income": 0,
+      "reserachAndDevelopment": [],
+      "marketResearch": [],
+      "supplyChain": [],
+      "marketing": [],
+      "clients": [],
+      "competition": [],
+      "communityAndEnviroment": []
+    },
+    {
+      "cityName": "berlin",
+      "population": 3645000,
+      "resources": [],
+      "employees": [],
+      "factories": [],
+      "income": 0,
+      "reserachAndDevelopment": [],
+      "marketResearch": [],
+      "supplyChain": [],
+      "marketing": [],
+      "clients": [],
+      "competition": [],
+      "communityAndEnviroment": []
+    }
+]
+  
